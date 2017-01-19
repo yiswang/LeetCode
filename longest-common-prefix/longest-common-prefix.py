@@ -4,10 +4,7 @@
 #
 # LeetCode 14. Longest Common Prefix
 #
-# Total Accepted: 122257
-# Total Submissions: 281828
 # Difficulty: Easy
-# Contributors: Admin
 #
 # Write a function to find the longest common prefix string amongst an array of
 # strings.

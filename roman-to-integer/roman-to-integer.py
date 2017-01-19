@@ -4,10 +4,7 @@
 #
 # LeetCode 13. Roman to Integer
 #
-# Total Accepted: 122257
-# Total Submissions: 281828
 # Difficulty: Easy
-# Contributors: Admin
 #
 # Given a roman numeral, convert it to an integer.
 # 

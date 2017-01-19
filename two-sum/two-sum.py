@@ -1,5 +1,18 @@
 #!/usr/bin/python
 
+###############################################################################
+# LeetCode 1. Two Sum
+#
+# Difficulty: Easy
+#
+# Given an array of integers, return indices of the two numbers such that they
+# add up to a specific target.
+# 
+# You may assume that each input would have exactly one solution.
+#
+###############################################################################
+
+# Use a hash-table
 class Solution(object):
     def twoSum(self, nums, target):
         """
@@ -15,6 +28,7 @@ class Solution(object):
                 return [d[nums[i]], i]
 
 
+# The slowest method: O(n^2)
 class Solution1(object):
     def twoSum(self, nums, target):
         """
