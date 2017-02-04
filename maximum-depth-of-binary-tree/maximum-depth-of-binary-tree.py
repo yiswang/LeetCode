@@ -5,7 +5,7 @@
 #
 # Author:      Yishan Wang <wangys8807@gmail.com>
 # File:        maximum-depth-of-binary-tree.py
-# Create Date: 2017-02-2
+# Create Date: 2017-02-02
 # Usage:       maximum-depth-of-binary-tree.py
 # Description:
 #

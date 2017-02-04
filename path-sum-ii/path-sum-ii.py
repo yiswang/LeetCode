@@ -11,7 +11,7 @@
 #
 # LeetCode problem 113. Path Sum II
 #
-# Difficulty: Easy
+# Difficulty: Medium
 #
 # Given a binary tree and a sum, find all root-to-leaf paths where each path's
 # sum equals the given sum.
